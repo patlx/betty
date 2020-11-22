@@ -13,6 +13,10 @@ jobs:
             os: ubuntu-latest
             python: '3.9'
             node: '14'
+          - name: 'Python 3.10'
+            os: ubuntu-latest
+            python: '3.10.0-alpha.2'
+            node: '14'
           - name: 'Python 3.8'
             os: ubuntu-latest
             python: '3.8'
